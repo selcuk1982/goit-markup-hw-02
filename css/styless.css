@@ -1,0 +1,276 @@
+body {
+    color: #434455;
+    font-family: "Roboto", sans-serif;
+    background-color: #fff;
+
+}
+
+/*Header */
+.top-line {
+    background-color: #fff;
+}
+
+.logo {
+    font-size: 18px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    letter-spacing: 0.03em;
+    line-height: 1.17;
+    text-transform: uppercase;
+    color: #4D5AE5;
+}
+
+.logo-studio {
+    font-size: 18px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    color: #2E2F42;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+}
+
+.nav-menu {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+
+header nav .nav-menu:hover,
+header nav .nav-menu:active,
+header nav .nav-menu:focus {
+    color: #404bbf;
+}
+
+
+
+.address-menu {
+    font-style: normal;
+}
+
+.address-mail-number {
+    font-size: 16px;
+    color: #434455;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+header .address-menu .address-mail-number:hover,
+header .address-menu .address-mail-number:focus,
+header .address-menu .address-mail-number:active {
+    color: #404bbf;
+}
+
+.address-mail-number {
+    font-size: 16px;
+    color: #434455;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+/* Header - End */
+
+
+
+/* Hero İmage  */
+.hero-image {
+    background-color: #2E2F42;
+
+}
+
+.hero-image-title {
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #fff;
+}
+
+.hero-image-button {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    color: #ffffff;
+    background-color: #4D5AE5;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    cursor: pointer;
+}
+
+.hero-image-button:hover {
+    background-color: #404bbf;
+}
+
+.hero-image-button:focus {
+    background-color: #404bbf;
+}
+
+/* Hero İmage - End */
+
+
+
+/* Section 1 - Start */
+.section-l-title {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+
+.section-l-text {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+/* Section 1 - End */
+
+
+
+/* Section 2 - Start */
+.section-lll {
+    background-color: #F4F4FD;
+}
+
+.our-team-title {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2E2F42;
+}
+
+.name {
+    background-color: #fff;
+}
+
+.name-title {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+
+.name-text {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.tom-ford {
+    background-color: #fff;
+}
+
+.tom-ford-title {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+
+.tom-ford-text {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.camila-garcia {
+    background-color: #fff;
+}
+
+.camila-garcia-title {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+
+.camila-garcia-text {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.daniel-wilson {
+    background-color: #fff;
+}
+
+.daniel-wilson-title {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+
+.daniel-wilson-text {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+/* Section 2 - End */
+
+
+
+/* Section 3 - Start */
+.our-portfolio {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+
+.portfolio-title {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.portfolio-text {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+
+}
+
+/* Section 3 - End */
+
+
+
+/* Footer - Start */
+.footer-section {
+    background-color: #2E2F42;
+}
+
+.footer-studio {
+    color: #F4F4FD;
+
+}
+
+.footer-text {
+    line-height: 1.5;
+    color: #F4F4FD;
+    letter-spacing: 0.02em;
+}
+
+/* Footer - End */
+/*--Projenin Sonu*/
+/*--Bu Proje Selçuk ERGÜL tarafından yapılmıştır*/
