@@ -1,0 +1,184 @@
+body {
+    font-family: "Roboto", sans-serif;
+    color:#434455;
+    background-color: #FFFFFF;
+}
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.nav-logo{
+    color: #4D5AE5;
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+}
+
+.nav-logo-studio{
+    color: #2E2F42;
+}
+.nav-sections{
+    color: #2E2F42;
+    font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+}
+
+.nav-sections:hover,
+.nav-sections:focus{
+    color:#404BBF;
+}
+
+.address {
+    font-style: normal;
+}
+.header-contacts{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.header-contacts:hover,
+.header-contacts:focus{
+    color:#404BBF;
+}
+
+.main-section-hero{
+    background-color: #2E2F42;
+}
+
+.main-section-hero-header{
+    color:#FFFFFF;
+    font-size: 56px;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
+    text-align: center;
+}
+
+.main-setion-hero-button{
+    font-family: "Roboto", sans-serif;
+    cursor: pointer;
+    color: #FFFFFF;
+    background-color: #4D5AE5;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+}
+
+.main-setion-hero-button:hover,
+.main-setion-hero-button:focus {
+    background-color: #404BBF;
+}
+    
+.second-section-header{
+    color: #2E2F42;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    text-align: left;
+}
+
+.second-section-paragraph{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    text-align: left;
+}
+
+.our-team-section{
+    background-color: #F4F4FD;
+}
+
+.our-team-header{
+    color: #2E2F42;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+
+.ourteam-card{
+    background-color: #FFFFFF;
+}
+.ourteam-worker{
+    color:#2E2F42;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    text-align: center;
+}
+.ourteam-worker-position{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    text-align: center;
+}
+
+.our-portfolio-header{
+    color: #2E2F42;
+    font-weight: 700;
+        font-size: 36px;
+        line-height: 1.11;
+        letter-spacing: 0.02em;
+        text-align: center;
+        text-transform: capitalize;
+}
+
+.our-porfolio-title{
+    color: #2E2F42;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    text-align: left;
+}
+
+.our-portfolio-paragraph{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+.footer{
+    background-color: #2E2F42;
+}
+
+.footer-logo{
+    font-family: "Raleway", sans-serif;
+    color:#4D5AE5;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+}
+.logo-studio{
+    color: #F4F4FD;
+}
+
+.footer-paragrph{
+    color: #F4F4FD;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    text-align: left;
+/*--Projenin Sonu*/
+    /*--Bu Proje Selçuk ERGÜL tarafından yapılmıştır*/
